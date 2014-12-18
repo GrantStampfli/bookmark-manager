@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-    color: #5bc0de;
+    color: #ebce23;
 }
 
 .btn, .btn:focus {
@@ -27,11 +27,11 @@ a:hover {
 }
 
 .btn-link:hover {
-    color: #5bc0de;
+    color: #ebce23;
 }
 
 .sidebar a {
-    color: #5bc0de;
+    color: #ebce23;
     font-size: 30px;
     text-decoration: none;
 }
@@ -67,14 +67,14 @@ a:hover {
 
 .main .active span,
 .main .active > a {
-    color: #5bc0de;
+    color: #ebce23;
 }
 
 .editing > button {
-    color: #5bc0de !important;
+    color: #ebce23 !important;
 }
 .editing > a {
-    color: #5bc0de !important;
+    color: #ebce23 !important;
 }
 
 .nav > li > a:hover, .nav > li > a:focus {
